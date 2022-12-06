@@ -36,7 +36,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Site Para Barbearia desenvolvida durante programa ONE (Oracle Next Education) para ensinamentos fundamentais de HTML5 e CSS3.
+Site para barbearia desenvolvida durante programa ONE (Oracle Next Education) para ensinamentos fundamentais de HTML5 e CSS3.
 
 ## 📝 Licença
 
