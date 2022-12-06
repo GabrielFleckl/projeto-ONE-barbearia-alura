@@ -156,6 +156,9 @@ td, th {
 /* css da página inicial */
 .banner {
 	width:100%;
+	height: 70vh;
+	object-fit: cover;
+	object-position: center top;
 }
 
 .titulo-principal {
@@ -260,8 +263,18 @@ td, th {
 
 	nav {
 		position: static;
+		display: flex;
+		align-items: center;
+		justify-content: center;
 	}
 
+	.banner{
+		display: none;
+	}
+
+	.lista-beneficios{
+		margin-bottom:1em;
+	}
 	.lista-beneficios, .imagem-beneficios {
 		width: 100%;
 	}
